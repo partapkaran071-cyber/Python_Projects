@@ -1,0 +1,6 @@
+a = (1,45,2433,False,"Rohan")
+print(type(a))
+print(a)
+no = a.index(45)
+print(no)
+print(len(a))
