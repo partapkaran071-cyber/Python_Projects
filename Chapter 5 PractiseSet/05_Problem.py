@@ -1,0 +1,15 @@
+friends = {}
+name = input("Enter friends name : ")
+lang = input("Enter your Fav Lang. : ") 
+friends.update({name:lang})
+name = input("Enter friends name : ")
+lang = input("Enter your Fav Lang. : ") 
+friends.update({name:lang})
+name = input("Enter friends name : ")
+lang = input("Enter your Fav Lang. : ") 
+friends.update({name:lang})
+name = input("Enter friends name : ")
+lang = input("Enter your Fav Lang. : ") 
+friends.update({name:lang})
+
+print(friends)
